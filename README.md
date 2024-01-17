@@ -65,3 +65,5 @@ To optimize data fetching and processing:
 4. **Airflow Automation:**
    - The entire process is orchestrated and automated using Apache Airflow, providing a scalable and reliable solution.
 
+Please refer to the [news_api_batch_job.py](airflow/dags/news_api_batch_job.py) file for the implementation details.
+
